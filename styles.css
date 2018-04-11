@@ -1,0 +1,56 @@
+body {
+    background-image: url('http://blavity.blavity.netdna-cdn.com/wp-content/uploads/2016/01/Wikipedia-696x392.jpg?857868');
+    color: rgb(0, 0, 0);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.heading {
+    border-radius: 25px;
+    margin: 1%;
+    padding: 1%;
+    display: inline-block;
+    font-family: 'Lobster';
+}
+
+.heading img {
+    background-color: #0099cc;
+    border-radius: 25px;
+    display: inline-block;
+    font-family: 'Lobster';
+    width: 50%;
+}
+
+a {
+    color: inherit;
+}
+
+h2 {
+    color: black;
+    padding-left: 1%;
+    padding-top: 1%;
+}
+
+p {
+    padding-bottom: 1%;
+    padding-left: 1%;
+    font-size: 25px;
+}
+
+div {
+    border-radius: 25px;
+}
+
+button {
+    margin: 1%;
+}
+
+#output {
+    margin-top: 1%;
+    border-radius: 25px;
+    font-family: 'Lobster';
+}
+
+h2 {
+    font-family: Times New Roman;
+}
